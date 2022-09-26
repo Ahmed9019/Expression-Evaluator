@@ -1,4 +1,4 @@
-# Expression Evaluator
+# Expression Evaluator (Infix to Postfix Evaluator)
 
 You are required to write a program that takes a symbolic infix expression as input, converts it to postfix notation, evaluates the postfix expression and outputs both; the resulting postfix expression and *its value. * <br />
 
